@@ -54,6 +54,7 @@ Presentation: <br/>
 <br />
 <br />
 Report: <br/>
+ <b><b/>https://github.com/CaddenB26/Project-Management/blob/77258f7542da2c4a9c3f65345b3d2a1330ce63c7/QSO-340%20Project%203.docx
 <img src="https://github.com/CaddenB26/Project-Management/blob/67e96c08d41bcda7ebedfc82d8710f2872383dc7/Project%20Management%20Report.png" />
 <br />
 <br />
