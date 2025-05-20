@@ -54,16 +54,16 @@ Presentation: <br/>
 <br />
 <br />
 Report: <br/>
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/67e96c08d41bcda7ebedfc82d8710f2872383dc7/Project%20Management%20Report.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda1.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/67e96c08d41bcda7ebedfc82d8710f2872383dc7/Project%20Management%20Report1.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda2.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/67e96c08d41bcda7ebedfc82d8710f2872383dc7/Project%20Management%20Report2.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda3.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/67e96c08d41bcda7ebedfc82d8710f2872383dc7/Project%20Management%20Report3.png" />
 <br />
 <br />
 </p>
