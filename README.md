@@ -18,7 +18,7 @@ Project Management samples from my courses
 
 <p align="center">
 Presentation: <br/>
- <b></b>https://github.com/CaddenB26/Manufacturing-Efficiency/blob/aba16bf0dfa7e06680a12aa2e49508282adbee30/DAT-475%20Project%202.docx
+ <b></b>https://github.com/CaddenB26/Project-Management/blob/4ea3af0c4022e3d84a48c9d85793b46b79f6d75e/QSO-340%20Project%202.pptx
 <br />
 <br />
 <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png" />
