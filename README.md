@@ -21,51 +21,39 @@ Presentation: <br/>
  <b></b>https://github.com/CaddenB26/Project-Management/blob/4ea3af0c4022e3d84a48c9d85793b46b79f6d75e/QSO-340%20Project%202.pptx
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall1.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall2.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management1.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall3.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management2.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall4.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management3.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall5.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management4.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall6.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management5.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall7.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management6.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall8.png" />
+ <img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management7.png" />
 <br />
 <br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall9.png" />
+ <img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management8.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall10.png" />
-<br />
-<br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall11.png" />
-<br />
-<br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall12.png" />
-<br />
-<br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall13.png" />
-<br />
-<br />
- <img src="https://github.com/CaddenB26/PythonCode/blob/975a7f4b1152dba9b41246d3f325ab5febd439a8/BBall14.png" />
+<img src="https://github.com/CaddenB26/Project-Management/blob/ac358c19a0488c47ccc88d18bad0c944d6ea3f6a/Project%20Management9.png" />
 <br />
 <br />
 <br />
 <br />
-Anaconda: <br/>
+Report: <br/>
 <img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda.png" />
 <br />
 <br />
@@ -76,25 +64,6 @@ Anaconda: <br/>
 <br />
 <br />
 <img src="https://github.com/CaddenB26/PythonCode/blob/c0e8d3b0f7c97eca78675b86e04f27ba82b2d978/Anaconda3.png" />
-<br />
-<br />
- Python Code: <br/>
-<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python1.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python2.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python3.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python4.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/PythonCode/blob/a5601fa4dc8c66a0a8a638151df4bb3e8a3e7dd1/Python5.png" />
 <br />
 <br />
 </p>
